@@ -12,6 +12,3 @@ print(x*y)
 print("------------------")
 print(f"{x} / {y}")
 print(x/y)
-
-
-
